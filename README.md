@@ -1,0 +1,2 @@
+# mycnn
+just cnn :)
